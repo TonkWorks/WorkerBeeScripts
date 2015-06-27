@@ -1,0 +1,15 @@
+[submodule "send_a_gmail"]
+	path = send_a_gmail
+	url = https://github.com/TonkWorks/send_a_gmail
+[submodule "watermark_on_an_image"]
+	path = watermark_on_an_image
+	url = https://github.com/TonkWorks/watermark_on_an_image
+[submodule "convert_to_pdf"]
+	path = convert_to_pdf
+	url = https://github.com/TonkWorks/convert_to_pdf
+[submodule "download_images_from_a_website"]
+	path = download_images_from_a_website
+	url = https://github.com/TonkWorks/download_images_from_a_website
+[submodule "download_a_youtube_video"]
+	path = download_a_youtube_video
+	url = https://github.com/TonkWorks/download_a_youtube_video
